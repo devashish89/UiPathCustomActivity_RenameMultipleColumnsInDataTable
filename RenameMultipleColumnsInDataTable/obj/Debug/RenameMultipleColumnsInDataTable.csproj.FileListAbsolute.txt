@@ -1,0 +1,5 @@
+C:\Users\dnigam\source\repos\RenameMultipleColumnsInDataTable\RenameMultipleColumnsInDataTable\bin\Debug\RenameMultipleColumnsInDataTable.dll
+C:\Users\dnigam\source\repos\RenameMultipleColumnsInDataTable\RenameMultipleColumnsInDataTable\bin\Debug\RenameMultipleColumnsInDataTable.pdb
+C:\Users\dnigam\source\repos\RenameMultipleColumnsInDataTable\RenameMultipleColumnsInDataTable\obj\Debug\RenameMultipleColumnsInDataTable.csprojAssemblyReference.cache
+C:\Users\dnigam\source\repos\RenameMultipleColumnsInDataTable\RenameMultipleColumnsInDataTable\obj\Debug\RenameMultipleColumnsInDataTable.dll
+C:\Users\dnigam\source\repos\RenameMultipleColumnsInDataTable\RenameMultipleColumnsInDataTable\obj\Debug\RenameMultipleColumnsInDataTable.pdb
